@@ -2,26 +2,6 @@
 
 Esta es la primera App de Rails para Desafio Latam, curso Full Stack.
 
-# TODO!!!
+# Para ingresar a esta pagina, se puede acceder a:
 
-* Update this :P
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://limitless-tor-93061.herokuapp.com
