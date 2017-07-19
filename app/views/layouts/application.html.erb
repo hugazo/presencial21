@@ -15,6 +15,16 @@
   </head>
 
   <body>
+    <div class="navbar navbar-inverse">
+      <div class="container-fluid">
+        <div class="navbar-header"><a href="#" class="navbar-brand">Ruby on Rails First App</a></div>
+        <ul class="nav navbar-nav navbar-right">
+          <li><%= link_to "Page One", pages_one_path %></li>
+          <li><%= link_to "Page Two", pages_two_path %></li>
+          <li><%= link_to "Page Three", pages_three_path %></li>
+        </ul>
+      </div>
+    </div>
     <%= yield %>
   </body>
 </html>
